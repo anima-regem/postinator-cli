@@ -1,0 +1,4 @@
+.env
+out/
+input.txt
+postinator_go
